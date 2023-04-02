@@ -11,16 +11,15 @@ html {
 body {
   text-align: center;
   font-family: "Red Hat Display", sans-serif;
-  position: relative;
-  overflow: hidden;
-  background-color: #e0e8ff;
-  z-index: -2;
+/*position: relative; */
+  background: url(./images/pattern-background-desktop.svg), #e1e9ff;
+  background-repeat: no-repeat, no-repeat;
 }
 
-body::after {
+/* body::after {
   content: url(images/pattern-background-desktop2.svg);
-  /* width: 5rem;
-  height: 140rem; */
+  width: 5rem;
+  height: 140rem;
   position: absolute;
   bottom: 0;
   right: 0;
@@ -35,7 +34,7 @@ body::before {
   right: 0;
   z-index: -1;
   transform: translate(0%, -12%);
-}
+} */
 
 main {
   display: grid;
@@ -214,6 +213,11 @@ h1 {
     font-size: 50%;
   }
 
+    body {
+    background: url(images/pattern-background-mobile.svg), #e1e9ff;
+    background-repeat: no-repeat, no-repeat;
+  }
+  
   .main-div {
     margin-top: 1rem;
   }
