@@ -23,9 +23,9 @@ This was one of the most interesting challenges that I have done and that was be
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/order-summary-component-1A0xd72ff3)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://mckh03.github.io/FEM-Order-Summary-Component/)
 
 - Twitter: (https://twitter.com/ytmehrshad)
 
@@ -107,7 +107,5 @@ I also used overflow: hidden; for body so that no scrolling happens!
 So I guess I still need to work with svg as background I think I know what I am doing at this level!
 
 ## Author
-
-- Website - [Mehrshad Chashm Khavari](https://www.your-site.com)
 
 - Frontend Mentor - [@MCKH03](https://www.frontendmentor.io/profile/MCKH03)
