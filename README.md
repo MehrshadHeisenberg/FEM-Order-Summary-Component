@@ -102,6 +102,15 @@ body {
 
 I also used overflow: hidden; for body so that no scrolling happens!
 
+But then I found out that I can use only this piece of code to all of that and it is AMAZING:
+
+```css
+  body {
+    background: url(images/pattern-background-desktop.svg), #e1e9ff;
+    background-repeat: no-repeat, no-repeat;
+  }
+```
+
 ### Continued development
 
 So I guess I still need to work with svg as background I think I know what I am doing at this level!
